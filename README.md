@@ -1,6 +1,7 @@
 # Nashville Housing Data
 
-# Data Cleaning in PostgreSQL
+## Overview
+Data Cleaning in PostgreSQL
 
 This project is focused on using data cleaning techniques in PostgreSQL to prepare a dataset for analysis. The dataset was downloaded from a Github repository and contains information on various housing properties.
 
