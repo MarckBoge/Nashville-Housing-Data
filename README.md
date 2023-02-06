@@ -20,4 +20,4 @@ To get started, you will need to clone or download this repository and have a Po
 
 This project demonstrates the ability to use PostgreSQL to clean and organize large datasets for further analysis. It is important to have a clean and accurate dataset for any analysis and this project provides an example of how to do so.
 
-Please let me know if you have any questions, issues or concerns about the project.
+Please let me know if you have any questions, issues or concerns about the project. 
